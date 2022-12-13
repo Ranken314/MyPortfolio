@@ -1,0 +1,23 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ranken314/MyPortfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ranken314/MyPortfolio/issues"
+  },
+  "homepage": "https://github.com/Ranken314/MyPortfolio#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
